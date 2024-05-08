@@ -1,0 +1,10 @@
+body{
+    background-color: aquamarine;
+}
+h1{
+    color: blueviolet;
+}
+table, td{
+    border: 2px solid rgb(90, 137, 236);
+    text-align: right;
+}
