@@ -6,8 +6,11 @@ h1{
 }
 table, td{
     border: 2px solid rgb(90, 137, 236);
-    text-align: right;
+    text-align: left;
 }
 p{
     color: rgb(83, 50, 217);
+}
+img{
+    width: 150px
 }
